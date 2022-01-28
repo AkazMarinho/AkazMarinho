@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkazMarinho
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on projetos relacionados a Java, Javascript e C.
+- 💞️ I’m looking to collaborate on projects related to Java, Javascript e C.
 - 📫 How to reach me akazms252000@gmail.com
 
 <!---
