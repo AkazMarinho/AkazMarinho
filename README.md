@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AkazMarinho
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on projects related to Java, Javascript e C.
-- 📫 How to reach me akazms252000@gmail.com
+- 👋 Olá, me chamo Akaz Marinho
+- 👀 Apaixonado por tecnologia e programação
+- 🌱 Desenvolvedor fron-end - HTML, CSS e JavaScript
+- 💞️ Interassado em oportunidades de mercado
+- 📫 Contate-me: akazms252000@gmail.com | (91) 99154-5655
 
 <!---
 AkazMarinho/AkazMarinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
