@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on software development in react<br>👯 I'm looking to collaborate on internships<br>🌱 I'm currently learning React states<br>💬 Ask me about my experience
+🔭 I'm currently working on software development in react<br>👯 I'm looking to collaborate on internships<br>🌱 I'm currently learning React, Java Spring Boot and Data Science<br>💬 Ask me about my experience
 
 
 ## 🌐 Socials:
