@@ -23,7 +23,7 @@ This is my Technical Skills:
   - Back-end: Developed personal projects using Java Spring Boot, which provided me with a deep understanding of API creation and utilization, as well as general knowledge of internet traffic.
   
   And:
-  - Docker: Implementing and managing containers
+  - Docker: Implementing and managing containers.
 
 And this, my Interpersonal Skills:
 - Teamwork: Significant experience in collaborative environments, enabling effective problem-solving and contribution to common goals.
