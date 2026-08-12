@@ -5,8 +5,6 @@
 Computer Engineering at the Federal University of Pará, with solid experience in Data Engineering
 
 This is my Technical Skills:
-
-  With a current focus on Data Enginerring, with key skills include:
   - Python
   - PySpark
   - Medallion architecture
