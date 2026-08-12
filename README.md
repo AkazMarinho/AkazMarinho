@@ -1,14 +1,16 @@
 # Hello and welcome to my repository! I'm Akaz (or Kaká, if you prefer).
-## Here, you'll find a showcase of my work in data engineering and web development. Feel free to explore and reach out if you have any questions or would like to connect.
+## Here, you'll find a showcase of my work in data engineering
 
 # 💫 About Me:
-9th-semester Computer Engineering student at the Federal University of Pará, with experience as an internal scholar and an internship in the Computer Networks and Internet sector. Currently, I am interning in Data Analytics.
+Computer Engineering at the Federal University of Pará, with solid experience in Data Engineering
 
 This is my Technical Skills:
 
   With a current focus on Data Enginerring, with key skills include:
-  - Python and PySpark: Developing data engineering pipelines in the cloud.
-  - SQL: Building and optimizing queries.
+  - Python
+  - PySpark
+  - Medallion architecture
+  - SQL
   - Terraform
   - Docker
   - AWS Cloud
